@@ -1,0 +1,6 @@
+repos:
+  - atlassian/atlasboard
+  - atlassian/atlasboard-atlassian-package
+
+login: my_bitbucket_user
+password: my_bitbucket_password
